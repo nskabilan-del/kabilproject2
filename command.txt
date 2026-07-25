@@ -1,0 +1,17 @@
+ git clone <https://github.com/nskabilan-del/kabilproject1.git>
+ cd <foldername>
+ cd .. --> like this ,than give the command 'cd ..'its go the gitforvlsi folder-->PS C:\Users\NS KABILAN\OneDrive\Desktop\gitforvlsi\kabilproject2>
+git init--> for create a bridge '.git' to new folder.
+git add <"file name "> --> also give to add the unstage file
+git add . --> add 100 of unstage file at the time .
+git pull --> if any chang in git page this comment show to the vsc terminal.
+git commit -m <"create halfadder.v and command.txt"> --> both of the fileis are committed
+git push origin main --> it is push to the git hub page.
+git remote add origin https://github.com/nskabilan-del/kabilproject2.git -->this for the creat a new repository to add this fileis
+git branch --> show the branch name 
+git branch -M <main> --> if create a new repository the branch name is master, so we change the name master in to main.
+git push origin master -->Or i don't want to change the name so use this command
+                  |
+                  v
+               it is a branch name
+                    
