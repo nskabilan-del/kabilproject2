@@ -19,4 +19,3 @@ git checkout <branch name> --> it is switch to given branch.
 git diff <branch name> --> it show the difference in given branch.
 git merge <branch name ,which branch to merge> --> it merge the branch.
 git branch <branch name> --> create a new branch in terminal
-     
